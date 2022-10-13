@@ -2,6 +2,9 @@
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
+[![Hello world workflow](https://github.com/AlekseiKarlov/hexlet-ci /actions/workflows/hello-world.yml/badge.svg?branch=main)](https://github.com/AlekseiKarlov/hexlet-ci/actions/workflows/hello-world.yml)
+
+
 ## System requirements
 
 * NodeJS >= 18
